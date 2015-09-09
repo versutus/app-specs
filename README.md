@@ -56,7 +56,7 @@ We also highly recommend that you register your progress while developing the pr
 1. Plan your sprints based on the functionalities that your app must have.
 1. Start to implement the functionalities.
 1. Register your progress.
-1. After end the implmenentation, create an article explaining all the process.
+1. After end the implementation, create an article explaining all the process.
 1. Fork our repository and submit the link of your implementation and others relevant informations.
 
 ## How to collaborate
