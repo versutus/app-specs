@@ -59,6 +59,25 @@ Routing is required for all frameworks. Use the built-in capabilities if support
 - Twitter: [@tastejs](https://twitter.com/tastejs)
 - Blog: [TasteJS](https://medium.com/%40tastejs)
 
+## Implementations
+
+
+### 01
+
+- Author: Sam Saccone
+- GitHub: [@samccone](https://github.com/samccone)
+- Source Code: [link](https://github.com/tastejs/todomvc/tree/master/examples/vanillajs)
+- Live demo: [link](http://todomvc.com/examples/vanillajs/)
+- Stack: HTML, CSS & Vanilla JavaScript
+
+### 02
+
+- Author: Evan Czaplicki
+- GitHub: [@evancz](https://github.com/evancz)
+- Source Code: [link](https://github.com/tastejs/todomvc/tree/master/examples/elm)
+- Live demo: [link](http://todomvc.com/examples/elm/)
+- Stack: HTML, CSS & [Elm](http://elm-lang.org/)
+
 ## References
 
 - [TodoMVC](http://todomvc.com/)

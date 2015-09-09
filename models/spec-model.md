@@ -16,4 +16,12 @@ Description of the functionality.
 - E-mail (optional):
 - Blog (optional):
 
+## Implementations
+
+- Author: 
+- GitHub:
+- Source Code: [link]()
+- Live demo: [link]()
+- Stack: 
+
 ## References (optional)
