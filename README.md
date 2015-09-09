@@ -1,4 +1,4 @@
-# app-specs
+![App Specs](http://i.imgur.com/XNpkcKK.png)
 
 A curated list of applications specifications for you practice new technologies, improve your portfolio and sharpen your skills.
 
@@ -82,10 +82,6 @@ You can help us in **several ways**! Some suggestions:
 - Translate a spec to your native language. All the translations should be created inside the `i18n` folder in the respective `category/level` folder. The name of the file should first contain the acronyms that refer to the target language, and after the original name of the app/file.
   - **Ex**: `backend/advanced/i18n/PT-BR-social-network.md`
 - Suggest new ideas for the project on the [issues](https://github.com/ericdouglas/app-specs/issues).
-
-**Urgent help!**
-
-We need a cool logo, so if you can/want to create one to us, this will be really awesome!!! :wink:
 
 ## Contributors
 
