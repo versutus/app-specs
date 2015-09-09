@@ -53,7 +53,7 @@ We also highly recommend that you register your progress while developing the pr
 ### Sum up
 
 1. Chose and read the specification of a project that you want to implement.
-1. Plan your sprints based on the functionalities that your have must have.
+1. Plan your sprints based on the functionalities that your app must have.
 1. Start to implement the functionalities.
 1. Register your progress.
 1. After end the implmenentation, create an article explaining all the process.
