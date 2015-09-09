@@ -28,9 +28,48 @@ Specifications are very important for several reasons:
 
 Our intention is to provide professional specifications that are agnostic, i.e, can be implemented using any programming language/stack.
 
+Sometimes is difficulty to think in a cool project to implent with the intention to validade some idea or new skill. With **app-specs** you'll be able to find lots of awesome specs and their respective implementations!
+
 ## How it works
 
+We divided the project into three categories:
+
+- [Frontend](/frontend)
+- [Backend](/backend)
+- [Fullstack](/fullstack)
+
+Each category has three levels of difficulty, that are `beginner`, `intermediate` and `advanced`. Inside these *levels folders* you'll find the specifications for different projects.
+
+In these specification files, you will see all the functionalities that are expected that your software has.
+
+You should break these functionalities in sprints, using your preferred [agile methodology](https://en.wikipedia.org/wiki/Agile_software_development).
+
+After finish your implementation, fork and send a pull request to us linking your resolution in the respective specification file, in the section *Implementations*.
+
+We also highly recommend that you register your progress while developing the project, so after finish all implementations you can write an article to explain how you make your app.
+
+Imagine how much knowledge we can generate/share following all these steps!!! :smile:
+
+### Sum up
+
+1. Chose and read the specification of a project that you want to implement.
+1. Plan your sprints based on the functionalities that your have must have.
+1. Start to implement the functionalities.
+1. Register your progress.
+1. After end the implmenentation, create an article explaining all the process.
+1. Fork our repository and submit the link of your implementation and others relevant informations.
+
 ## How to collaborate
+
+You can help us in **several ways**! Some suggestions:
+
+- Create a **new** specification
+- Choose an existing specification and add **more functionalities** to it, making this more complex, replicating this specification in the *intermediate* or *advanced* folder.
+- Choose a *frontend* spec and create its respective *backend* spec.
+- Choose a *backend* spec and create its respective *backend* spec.
+- Choose a *backend* and *frontend* specis and create its respective *fullstack* spec.
+- Translate a spec to your native language.
+- Suggest new ideas for the project on the [issues](https://github.com/ericdouglas/app-specs/issues).
 
 ## Contributors
 
