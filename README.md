@@ -48,7 +48,7 @@ After finish your implementation, fork and send a pull request to us linking you
 
 We also highly recommend that you register your progress while developing the project, so after finish all implementations you can write an article to explain how you make your app.
 
-Imagine how much knowledge we can generate/share following all these steps!!! :smile:
+**Imagine how much knowledge we can generate/share following all these steps!!!** :smile:
 
 ### Sum up
 
