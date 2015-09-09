@@ -24,7 +24,7 @@ Specifications are very important for several reasons:
 - Estimating project time-frame and pricing
 - Creating a workable reference for development and design
 
-Furthermore, practicing deliberately by building real projects is the best way to achieve mastery in this field. With these specs you will be able to do it in a smooth way.
+Furthermore, practicing **deliberately** by building **real projects** is the <strike>unique</strike> best way to achieve mastery in this field. With all these specs and other resources, you will be able to do it in a **smooth way**.
 
 ## Purpose
 
