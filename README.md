@@ -73,6 +73,10 @@ You can help us in **several ways**! Some suggestions:
   - **Ex**: `backend/advanced/i18n/PT-BR-social-network.md`
 - Suggest new ideas for the project on the [issues](https://github.com/ericdouglas/app-specs/issues).
 
+**Urgent help!**
+
+We need a cool logo, so if you can/want to create one to us, this will be really awesome!!! :wink:
+
 ## Contributors
 
 [![Eric Douglas](https://secure.gravatar.com/avatar/7b4b31bf5e791b6d316462bfe6f943aa?s=130)](https://github.com/ericdouglas) |
