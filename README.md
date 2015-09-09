@@ -63,7 +63,8 @@ We also highly recommend that you register your progress while developing the pr
 
 You can help us in **several ways**! Some suggestions:
 
-- Create a **new** specification
+- Create a **new** specification. Use our [spec model](models/spec-model.md).
+- Create an application based on one of our specs. Use our [App README model](models/app-readme-model.md) as the README file of your project.
 - Choose an existing specification and add **more functionalities** to it, making this more complex, replicating this specification in the *intermediate* or *advanced* folder.
 - Choose a *frontend* spec and create its respective *backend* spec.
 - Choose a *backend* spec and create its respective *frontend* spec.
