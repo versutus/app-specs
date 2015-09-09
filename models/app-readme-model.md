@@ -35,7 +35,7 @@ Specify what it takes to deploy your app.
 
 ## Credit
 
-- Name:
+- Author:
 - GitHub:
 - Twitter (optional):
 - E-mail (optional):

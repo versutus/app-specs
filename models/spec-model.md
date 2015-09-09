@@ -10,7 +10,7 @@ Description of the functionality.
 
 ## Credit
 
-- Name:
+- Author:
 - GitHub:
 - Twitter (optional):
 - E-mail (optional):
