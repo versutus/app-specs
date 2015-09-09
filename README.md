@@ -99,3 +99,5 @@ We need a cool logo, so if you can/want to create one to us, this will be really
 1. [7 Killer Tips to Creating a Website Specification Document](http://www.bluefountainmedia.com/blog/how-to-write-a-specifications-document/)
 1. [Getting Real, Step 1: No Functional Spec](https://signalvnoise.com/archives/001050.php)
 1. [Writing specifications for web applications](http://www.lionite.com/articles/read/233)
+1. [TodoMVC](https://github.com/tastejs/todomvc)
+1. [todomvc-app-template](https://github.com/tastejs/todomvc-app-template)
