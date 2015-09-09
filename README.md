@@ -46,7 +46,7 @@ We simplified the division by offering just three categories, but each category 
 
   **ps**: The Frontend Engineer should also try to deploy the application using GtiHub pages, for example. You need  that your app be available for a live demo!
 
-- **Backend**: will take care of the server side application, Database development and administration and DevOps.
+- **Backend**: will take care of the server side application, database development, database administration and administration and DevOps.
 
 - **Fullstack**: will take care of the Frontend and Backend respective tasks.
 
