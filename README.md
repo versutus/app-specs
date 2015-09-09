@@ -67,7 +67,7 @@ You can help us in **several ways**! Some suggestions:
 - Choose an existing specification and add **more functionalities** to it, making this more complex, replicating this specification in the *intermediate* or *advanced* folder.
 - Choose a *frontend* spec and create its respective *backend* spec.
 - Choose a *backend* spec and create its respective *frontend* spec.
-- Choose a *backend* and *frontend* specis and create its respective *fullstack* spec.
+- Choose a *backend* and *frontend* specs and create its respective *fullstack* spec.
 - Translate a spec to your native language.
 - Suggest new ideas for the project on the [issues](https://github.com/ericdouglas/app-specs/issues).
 
