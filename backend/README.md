@@ -2,8 +2,8 @@
 
 List of all Backend specs.
 
-## [Beginner Specs](/beginner)
+## [Beginner Specs](backend/beginner)
 
-## [Intermediate Specs](/intermediate)
+## [Intermediate Specs](backend/intermediate)
 
-## [Advanced Specs](/advanced)
+## [Advanced Specs](backend/advanced)
