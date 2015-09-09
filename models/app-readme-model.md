@@ -1,4 +1,4 @@
-# App README Model
+# App Name
 
 Short description of your app.
 
