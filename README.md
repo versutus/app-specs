@@ -38,6 +38,16 @@ We divided the project into three categories:
 - [Backend](/backend)
 - [Fullstack](/fullstack)
 
+We simplified the division by offering just three categories, but each category will have more responsibilities:
+
+- **Frontend**: will take care of the Design, HTML, CSS and JavaScript related to the client-side application. 
+
+  **ps**: Should also try to deploy the application using GtiHub pages, for example.
+
+- **Backend**: will take care of the server side application, Database development and administration and DevOps.
+
+- **Fullstack**: will take care of the Frontend and Backend respective tasks.
+
 Each category has three levels of difficulty, that are `beginner`, `intermediate` and `advanced`. Inside these *levels folders* you'll find the specifications for different projects.
 
 In these specification files, you will see all the functionalities that are expected that your software has.
