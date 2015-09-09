@@ -68,7 +68,7 @@ You can help us in **several ways**! Some suggestions:
 - Choose a *frontend* spec and create its respective *backend* spec.
 - Choose a *backend* spec and create its respective *frontend* spec.
 - Choose a *backend* and *frontend* specs and create its respective *fullstack* spec.
-- Translate a spec to your native language. All the translations should be created inside the `i18n` folder in the respective `category/level` folder. The name of the file should contain first the acronyms referent to the language, and after the original name of the app/file.
+- Translate a spec to your native language. All the translations should be created inside the `i18n` folder in the respective `category/level` folder. The name of the file should first contain the acronyms that refer to the target language, and after the original name of the app/file.
   - **Ex**: `backend/advanced/i18n/PT-BR-social-network.md`
 - Suggest new ideas for the project on the [issues](https://github.com/ericdouglas/app-specs/issues).
 
