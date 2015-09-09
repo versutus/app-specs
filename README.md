@@ -46,7 +46,7 @@ We simplified the division by offering just three categories, but each category 
 
   **ps**: The Frontend Engineer should also try to deploy the application using GtiHub pages, for example. You need  that your app be available for a live demo!
 
-- **Backend**: will take care of the server side application, database development, database administration and administration and DevOps.
+- **Backend**: will take care of the server side application, database development, database administration and DevOps.
 
 - **Fullstack**: will take care of the Frontend and Backend respective tasks.
 
@@ -64,11 +64,11 @@ We also highly recommend that you register your progress while developing the pr
 
 ### Sum up
 
-1. Chose and read the specification of a project that you want to implement.
+1. Choose and read the specification of a project that you want to implement. You should consider to start with a [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) (beginner) application, and after create other specification with more complex functionalities.
 1. Plan your sprints based on the functionalities that your app must have.
 1. Start to implement the functionalities.
 1. Register your progress.
-1. After end the implementation, create an article explaining all the process.
+1. After completing the implementation, create an article explaining all the process.
 1. Fork our repository and submit the link of your implementation and others relevant informations.
 
 ## How to collaborate
