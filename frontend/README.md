@@ -2,10 +2,8 @@
 
 List of all Frontend specs.
 
-## Beginner Specs
+## [Beginner Specs](beginner)
 
-1. [TODO app](todo.md)
+## [Intermediate Specs](intermediate)
 
-## Intermediate Specs
-
-## Advanced Specs
+## [Advanced Specs](advanced)
