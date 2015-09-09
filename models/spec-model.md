@@ -8,7 +8,7 @@ Short description of the app.
 
 Description of the functionality.
 
-## Created by
+## Credit
 
 - Name:
 - GitHub:
