@@ -4,9 +4,9 @@ Short description of the app.
 
 ## Functionalities
 
-### Functionality 1
+### Name of the Functionality
 
-Description of the Functionality 1.
+Description of the functionality.
 
 ## Created by
 
