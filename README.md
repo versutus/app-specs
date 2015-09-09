@@ -42,7 +42,7 @@ We simplified the division by offering just three categories, but each category 
 
 - **Frontend**: will take care of the Design, HTML, CSS and JavaScript related to the client-side application. 
 
-  **ps**: Should also try to deploy the application using GtiHub pages, for example.
+  **ps**: The Frontend Engineer should also try to deploy the application using GtiHub pages, for example. You need  that your app be available for a live demo!
 
 - **Backend**: will take care of the server side application, Database development and administration and DevOps.
 
